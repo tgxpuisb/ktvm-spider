@@ -1,0 +1,13 @@
+{
+  "name": "ktv-spider",
+  "version": "1.0.0",
+  "description": "a spider",
+  "main": "index.js",
+  "author": "LYZZ",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "mysql": "^2.13.0",
+    "request": "^2.81.0"
+  }
+}
